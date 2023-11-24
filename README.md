@@ -1,6 +1,6 @@
 # Attendance system
-![plot](Resources/Screenshot(6).png)
-![plot](Resources/Screenshot (7).png)
-![plot](Resources/Screenshot (8).png)
-![plot](Resources/Screenshot (5).png)
+![plot](Resources/b.png)
+![plot](Resources/c.png)
+![plot](Resources/d.png)
+![plot](Resources/a.png)
 
